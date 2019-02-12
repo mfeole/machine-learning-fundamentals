@@ -1,2 +1,2 @@
-# machine-learning-fundamentals
+# Machine Learning Fundamentals
 The fundamentals of machine learning
