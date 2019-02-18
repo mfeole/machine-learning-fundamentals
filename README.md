@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to describe machine learning fundamentals from an introductory mathematical side, to the models, methods, and algorithms that implement those models. Each subfolder will consist of Jupyter notebooks with an explanation of the math background and of the essential algorithms, and also executable (not restricted to-) Python scripts that apply those algorithms in a particular example.
+This project aims to describe machine learning fundamentals from an introductory mathematical side, to the models, methods, and algorithms that implement those models. Each subfolder will consist of Jupyter notebooks with an explanation of the math background and of the essential algorithms, and also executable (not restricted to-)Python scripts that apply those algorithms to particular examples.
 
 Also other data science concepts, methods and tools related to machine learning will also be provided.
 
